@@ -6,7 +6,7 @@
 
 | 目录 | 说明 |
 |------|------|
-| `exponential-growth-stock-research/` | 多层面指数增长·科技革命投研（v2 三段八道关） |
+| `exponential-growth-stock-research/` | 多层面指数增长·科技革命投研（五层因果链 + 八张后台作业卡，2026-10-08 并入技术革命式成长 v3.0） |
 | `fx-bond-research/` | 外汇和债券投研分析 |
 | `stock-research/` | 股票投研分析：四条收益主轴 |
 
@@ -36,4 +36,4 @@ Copy-Item -Recurse -Destination "$env:USERPROFILE\.agents\skills\" exponential-g
 
 ## 备份日期
 
-2026-10-07
+2026-10-08（exponential-growth-stock-research 升级；stock-research 仅同步一处引用；fx-bond-research 未改动）
