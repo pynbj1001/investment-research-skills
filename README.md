@@ -36,4 +36,6 @@ Copy-Item -Recurse -Destination "$env:USERPROFILE\.agents\skills\" exponential-g
 
 ## 备份日期
 
+2026-10-18（三个技能同步升级：关键结论要外部验收，决定结论的前提要从原始数据复现，深度和动仓题由独立 agent 复核；开工前先写顶尖从业者四问，个股类加做空者和法务会计师核查；锁范围时写明服务的决定，结论落到该决定上，带失效条件和触发条件）
+
 2026-10-08（exponential-growth-stock-research 升级；stock-research 仅同步一处引用；fx-bond-research 重构：主轴改为三问，模块按干活顺序重排，去重后体量约为原来的一半）
